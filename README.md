@@ -1,7 +1,7 @@
 *app-dev
  My First Repository
-## My Favorite Movie  
-### Sci-Fi / Action / Comedy  
+# My Favorite Movie  
+## Sci-Fi / Action / Comedy  
 
 **From Netflix:**  
 1. Atlas  
