@@ -1,4 +1,4 @@
-# app-dev
+*app-dev
 My first repository
 #MY FAVORITE MOVIE
 ##SCI-FI/ACTION/COMEDY
