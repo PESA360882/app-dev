@@ -1,8 +1,9 @@
 # app-dev
 My first repository
-#MY FAVORITE MOVIE
-##SCI-FI,ACTION and COMEDY
+##MY FAVORITE MOVIE
+###SCI-FI/ACTION/COMEDY
 
-1. Pacific Rim: Uprising
-2. The Working Man
-3. The Mask
+#### From Netflix
+1. Atlas
+2. Blackout
+3. Red Notice
