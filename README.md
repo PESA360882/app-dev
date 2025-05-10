@@ -1,4 +1,4 @@
-#app-dev
+*app-dev
  My First Repository
 ## My Favorite Movie  
 ### Sci-Fi / Action / Comedy  
